@@ -1316,7 +1316,7 @@
     };
 
     // ─── 3D CONTACT PAGE ─────────────────────────────────────────────────────────
-    const WEB3FORMS_KEY = "YOUR_ACCESS_KEY_HERE"; // ← paste your Web3Forms key here
+    const WEB3FORMS_KEY = "4ee25545-55bd-4c21-a2e0-aaa50f95b6f5"; // ← paste your Web3Forms key here
 
     const ContactPage = () => {
     const [form, setForm]     = useState({ name: "", email: "", subject: "", message: "" });
